@@ -1,4 +1,10 @@
-### Hi there 👋
+# Bárbara Marques
+
+### Olá pessoal 👋
+
+- :computer: Principal linguagem: Java
+- :pushpin: Local Atual: Unifei
+- :necktie: Linkedin: https://www.linkedin.com/in/bemarques/
 
 <!--
 **BeMarques/BeMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
