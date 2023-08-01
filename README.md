@@ -2,8 +2,8 @@
 
 ### Olá pessoal 👋
 
-- :computer: Principal linguagem: Java
-- :pushpin: Local Atual: Unifei
+- :computer: Principal linguagem: Java/Go
+- :pushpin: Local Atual: Mercado Livre
 - :necktie: Linkedin: https://www.linkedin.com/in/bemarques/
 
 <!--
